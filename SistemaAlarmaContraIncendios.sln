@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaAlarmaContraIncendios", "SistemaAlarmaContraIncendios\SistemaAlarmaContraIncendios.csproj", "{A5E5B434-F96F-4467-B39F-E05AEA96C01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAlarmCore", "FireAlarmCore\FireAlarmCore.csproj", "{9F506937-F872-478C-BC44-331DFA30A07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E5B434-F96F-4467-B39F-E05AEA96C01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E5B434-F96F-4467-B39F-E05AEA96C01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E5B434-F96F-4467-B39F-E05AEA96C01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E5B434-F96F-4467-B39F-E05AEA96C01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F506937-F872-478C-BC44-331DFA30A07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F506937-F872-478C-BC44-331DFA30A07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F506937-F872-478C-BC44-331DFA30A07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F506937-F872-478C-BC44-331DFA30A07E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B33E174-AEC2-44A4-A2D9-19A201165274}
+	EndGlobalSection
+EndGlobal
